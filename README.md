@@ -1,6 +1,6 @@
  # 👋 Hi, I’m Johnny! # 
  
-I'm an innovator, entrepreneur, systems developer, and life-long student of information systems and technology. I'm dedicated to assisting businesses achieve growth through the design and execution of innovative information systems management and Johnny is an innovator, entrepreneur, systems developer, and life-long student of information systems and technology. I'm dedicated to assisting businesses to achieve growth through the design and execution of innovative information systems management, business process development, and enterprise architecture with a customer-centric approach.
+I'm an innovator, entrepreneur, systems developer, and life-long student of information systems and technology. I'm dedicated to assisting businesses to achieve growth through the design and execution of innovative information systems management, business process development, and enterprise architecture with a customer-centric approach.
 
 I have worked for several different firms as a Network Administrator, Web Developer, IT Consultant, Software/Middleware Developer, Principal Engineer, and Enterprise Architect. I have been esteemed for being both positive and flexible, and can be relied upon to find creative solutions with respect to "the bigger picture".
 
